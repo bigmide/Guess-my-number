@@ -6,4 +6,4 @@ For each guess, it tells you if its lower or higher than the random number.
 
 Play and have fun =)
 
-Hosted on:
+Hosted on: `https://guess-my-number-mide.netlify.app/`
